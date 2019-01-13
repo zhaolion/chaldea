@@ -1,0 +1,6 @@
+[submodule "themes/maupassant"]
+	path = themes/maupassant
+	url = git@github.com:rujews/maupassant-hugo.git
+[submodule "content/post"]
+	path = content/post
+	url = git@github.com:zhaolion/post.git

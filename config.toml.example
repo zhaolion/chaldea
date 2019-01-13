@@ -1,0 +1,32 @@
+baseURL = "https://zhaolion.github.io"
+languageCode = "zh-CN"
+title = "zhaolion's dropbox"
+theme = "maupassant"
+publishDir = "dist/public"
+
+## 保持分类的原始名字（false会做转小写处理）
+preserveTaxonomyNames = true
+
+## 是否禁止URL Path转小写
+disablePathToLower = true
+
+[author]
+    name = "zhaolion"
+
+[params]
+    author = "zhaolion"
+    subtitle = "编程 5 分钟，吹水 2 小时"
+    keywords = "瑟瑟发抖.jpg"
+    description = "别关注我"
+    busuanzi = true
+
+[params.utteranc]
+    enable = true
+    repo = "zhaolion/chaldea-comments"    # 存储评论的Repo，格式为 owner/repo
+    issueTerm = "pathname"  #表示你选择以那种方式让github issue的评论和你的文章关联。
+    theme = "github-light" # 样式主题，有github-light和github-dark两种
+
+[[params.links]]
+  title = "Github"
+  name = "欢迎来围观我的同性交友账号"
+  url = "https://github.com/zhaolion"

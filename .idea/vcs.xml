@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/content" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/content/post" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/content/themes/even" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/dist/public" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/maupassant" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/public" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/themes/ananke" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/themes/even" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/themes/maupassant" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/zhaolion.github.io" vcs="Git" />
+  </component>
+</project>
