@@ -1,7 +1,7 @@
-baseURL = "http://zhaolion.com"
+baseURL = "https://zhaolion.com"
 languageCode = "zh-CN"
 title = "zhaolion's dropbox"
-theme = "maupassant"
+theme = "lion"
 publishDir = "dist/public"
 ignoreFiles = ["README.md$"]
 
@@ -10,6 +10,9 @@ preserveTaxonomyNames = true
 
 ## 是否禁止URL Path转小写
 disablePathToLower = true
+
+## GA
+googleAnalytics = "UA-132382167-1"
 
 [author]
     name = "zhaolion"
@@ -22,8 +25,8 @@ disablePathToLower = true
 
 [params]
     author = "zhaolion"
-    subtitle = "编程 5 分钟，吹水 2 小时"
-    keywords = "瑟瑟发抖.jpg"
+    subtitle = "写代码 5 分钟，摸鱼 2 小时"
+    keywords = "萌新"
     description = "别关注我"
     busuanzi = true
 

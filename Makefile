@@ -1,3 +1,7 @@
-deploy:
-	hugo -t maupassant
-	./deploy.sh
+deploy: hugo commit
+
+hugo:
+	hugo -t lion
+
+commit:
+	./deploy

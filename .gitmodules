@@ -4,3 +4,6 @@
 [submodule "content/post"]
 	path = content/post
 	url = git@github.com:zhaolion/post.git
+[submodule "themes/lion"]
+	path = themes/lion
+	url = git@github.com:zhaolion/maupassant-hugo.git
