@@ -1,0 +1,13 @@
+#!/bin/bash
+
+echo -e "\033[0;32mDeploying updates to GitHub...\033[0m"
+
+# Add changes to git.
+git add .
+# Commit changes.
+msg="daily update `date`"
+git commit -m "$msg"
+# Push source and post repos.
+git push origin master
+
+echo -e "\033[0;32m完成更新了，你真棒!\033[0m"
