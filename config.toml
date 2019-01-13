@@ -25,9 +25,9 @@ googleAnalytics = "UA-132382167-1"
 
 [params]
     author = "zhaolion"
-    subtitle = "写代码 5 分钟，摸鱼 2 小时"
+    subtitle = "和大家一起分享我们都不知道的东西"
     keywords = "萌新"
-    description = "别关注我"
+    description = "写代码 5 分钟，摸鱼 2 小时"
     busuanzi = true
 
 [params.utteranc]

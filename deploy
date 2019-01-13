@@ -30,5 +30,12 @@ git push origin master
 
 # Come Back up to the Project Root
 cd ../..
+# Add changes to git.
+git add .
+# Commit changes.
+msg="daily update `date`"
+git commit -m "$msg"
+# Push source and post repos.
+git push origin master
 
 echo -e "\033[0;32m又更新博客了，你真棒!\033[0m"
