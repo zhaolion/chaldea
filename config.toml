@@ -1,4 +1,4 @@
-baseURL = "https://zhaolion.github.io"
+baseURL = "http://zhaolion.com"
 languageCode = "zh-CN"
 title = "zhaolion's dropbox"
 theme = "maupassant"
