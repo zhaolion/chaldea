@@ -3,6 +3,7 @@ languageCode = "zh-CN"
 title = "zhaolion's dropbox"
 theme = "maupassant"
 publishDir = "dist/public"
+ignoreFiles = ["\\content\\post\\README.md$"]
 
 ## 保持分类的原始名字（false会做转小写处理）
 preserveTaxonomyNames = true
@@ -12,6 +13,12 @@ disablePathToLower = true
 
 [author]
     name = "zhaolion"
+
+[[menu.main]]
+      name = "归档"
+      weight = 20
+      identifier = "archives"
+      url = "/archives/"
 
 [params]
     author = "zhaolion"
