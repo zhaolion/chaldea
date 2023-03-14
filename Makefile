@@ -4,7 +4,7 @@ update_post_readme:
 	ruby chief.rb 
 
 hugo:
-	hugo -t lion
+	hugo -t hugo-cards
 
 commit:
 	./deploy

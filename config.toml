@@ -1,7 +1,7 @@
-baseURL = "https://zhaolion.com"
+baseURL = "https://blog.zhaolion.dev"
 languageCode = "zh-CN"
-title = "zhaolion's dropbox"
-theme = "lion"
+title = "zhaolion's knowledge dropbox"
+theme = "hugo-cards"
 publishDir = "dist/public"
 ignoreFiles = ["README.md$"]
 
@@ -12,7 +12,7 @@ preserveTaxonomyNames = true
 disablePathToLower = true
 
 ## GA
-googleAnalytics = "UA-132382167-1"
+googleAnalytics = "G-CWES2Y5KZ3"
 
 [author]
     name = "zhaolion"
