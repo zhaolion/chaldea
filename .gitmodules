@@ -7,3 +7,12 @@
 [submodule "themes/lion"]
 	path = themes/lion
 	url = git@github.com:zhaolion/maupassant-hugo.git
+[submodule "themes/ananke"]
+	path = themes/ananke
+	url = https://github.com/theNewDynamic/gohugo-theme-ananke
+[submodule "themes/no-style-please"]
+	path = themes/no-style-please
+	url = git@github.com:Masellum/hugo-theme-nostyleplease.git
+[submodule "themes/hugo-cards"]
+	path = themes/hugo-cards
+	url = https://github.com/bul-ikana/hugo-cards
